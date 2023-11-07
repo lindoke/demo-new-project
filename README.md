@@ -5,4 +5,6 @@
 5. Do 'git remote add origin https://github.com/<GitHub_username>/<repository_name>.git'.
 6. Push changes with 'git push -u origin <branchname>' where branchname can be main or master.
 7. Create development branch with 'git checkout -b development'.
-8. 
+8. Add updated README.md to commit with 'git add README.md'.
+9. Commit changes with 'git commit -m "Add instructions to README.md"'
+
