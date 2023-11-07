@@ -6,5 +6,7 @@
 6. Push changes with 'git push -u origin <branchname>' where branchname can be main or master.
 7. Create development branch with 'git checkout -b development'.
 8. Add updated README.md to commit with 'git add README.md'.
-9. Commit changes with 'git commit -m "Add instructions to README.md"'
+9. Commit changes with 'git commit -m "Add instructions to README.md"'.
+10. Switch to master branch and merge with development with 'git checkout master' and 'git merge development'.
+11. Check status with 'git status', commit and push changes.
 
